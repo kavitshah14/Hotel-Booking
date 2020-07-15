@@ -1,6 +1,17 @@
 body, .main{
-    width: 100vw;
+   
     height: 100vh;
+    background-color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rosybrown;
+}
+
+.footer{
+    background-color: rosybrown;
 }
 
 .header img{
